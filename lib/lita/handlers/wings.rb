@@ -4,7 +4,7 @@ module Lita
       route /wings/i, :handle_wings
 
       def handle_wings(response)
-        response.reply('http://4gspot.files.wordpress.com/2010/10/1273212602563.gif')
+        response.reply('http://4gspot.files.wordpress.com/2010/10/1273212602563.gif?' + Time.now.to_i.to_s)
       end
     end
 
