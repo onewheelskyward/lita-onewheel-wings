@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/onewheelskyward/lita-wings.png?branch=master)](https://travis-ci.org/onewheelskyward/lita-wings)
 [![Coverage Status](https://coveralls.io/repos/onewheelskyward/lita-wings/badge.svg?branch=master)](https://coveralls.io/r/onewheelskyward/lita-wings?branch=master)
 
-TODO: Add a description of the plugin.
+![wings](http://4gspot.files.wordpress.com/2010/10/1273212602563.gif)
 
 ## Installation
 
@@ -12,11 +12,3 @@ Add lita-wings to your Lita instance's Gemfile:
 ``` ruby
 gem "lita-wings"
 ```
-
-## Configuration
-
-TODO: Describe any configuration attributes the plugin exposes.
-
-## Usage
-
-TODO: Describe the plugin's features and how to use them.
