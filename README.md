@@ -1,7 +1,7 @@
 # lita-wings
 
 [![Build Status](https://travis-ci.org/onewheelskyward/lita-wings.png?branch=master)](https://travis-ci.org/onewheelskyward/lita-wings)
-[![Coverage Status](https://coveralls.io/repos/onewheelskyward/lita-wings/badge.png)](https://coveralls.io/r/onewheelskyward/lita-wings)
+[![Coverage Status](https://coveralls.io/repos/onewheelskyward/lita-wings/badge.svg?branch=master)](https://coveralls.io/r/onewheelskyward/lita-wings?branch=master)
 
 TODO: Add a description of the plugin.
 
