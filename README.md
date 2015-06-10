@@ -10,5 +10,5 @@
 Add lita-wings to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-wings"
+gem 'lita-wings'
 ```
