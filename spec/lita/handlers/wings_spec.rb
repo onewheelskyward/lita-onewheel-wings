@@ -1,4 +1,4 @@
-require "spec_helper"
+require 'spec_helper'
 
 describe Lita::Handlers::Wings, lita_handler: true do
   it 'wings' do
