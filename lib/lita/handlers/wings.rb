@@ -11,7 +11,9 @@ module Lita
       end
 
       def handle_wings(response)
-        response.reply('http://4gspot.files.wordpress.com/2010/10/1273212602563.gif?' + get_random)
+        unless response.message.body.include? ':wings:'
+          response.reply('http://4gspot.files.wordpress.com/2010/10/1273212602563.gif?' + get_random)
+        end
       end
 
       def handle_girls(response)
