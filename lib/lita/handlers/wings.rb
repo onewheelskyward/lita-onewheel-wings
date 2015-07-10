@@ -2,7 +2,7 @@ module Lita
   module Handlers
     class Wings < Handler
       route /wings/i, :handle_wings
-      route /^!wing bomb$/i, :handle_wing_bomb
+      route /^wing bomb/i, :handle_wing_bomb
       route /girls/i, :handle_girls
 
       def get_random
